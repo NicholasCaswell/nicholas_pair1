@@ -5,3 +5,4 @@ function first_commit(name) {
 
 first_commit();
 first_commit("nick");
+first_commit("marlon");
