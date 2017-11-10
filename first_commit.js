@@ -1,5 +1,7 @@
-function first_commit() {
+function first_commit(name) {
 	console.log("this is our first commit file");
+	console.log("good job " + name);
 }
 
-firstcommit();
+first_commit();
+first_commit("nick");
